@@ -8,9 +8,9 @@ foreach ($Color as $key => $value) {
 }
 
 echo "Values are in lower case.<br>";
-print_r($upper);
+print_r($lower);
 echo "<br>";
 echo "Values are in upper case.<br>";
-print_r($lower);
+print_r($upper);
 
 ?>
